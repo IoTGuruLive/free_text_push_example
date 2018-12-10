@@ -8,3 +8,5 @@ The variables of the API call:
 - {message} - the message (URL encoded)
 
 http://api.iotguru.live/push/freeText/{nodeKey}/{message}
+
+![Schema](https://github.com/IoTGuruLive/free_text_push_example/blob/master/images/notification.png)
